@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Sumário
+##  Sumário
 
 1. [Contexto e Objetivos](#1-contexto-e-objetivos)
 2. [Curadoria de Fontes](#2-curadoria-de-fontes)
@@ -184,10 +184,10 @@ Crie um resumo estruturado em tópicos sobre [subtema 1], [subtema 2] e [subtema
 
 Materiais produzidos no **Estúdio do NotebookLM** a partir das fontes curadas:
 
--  **Mapa mental:** `materiais/mapa-mental.png`
--  **Apresentação de slides "A Anatomia do Valor" (13 slides):** [`materiais/A_Anatomia_do_Valor.pdf`](materiais/A_Anatomia_do_Valor.pdf)
+-  **Mapa mental:** `mapa-mental.png`
+-  **Apresentação de slides "A Anatomia do Valor" (13 slides):** [A_Anatomia_do_Valor.pdf](A_Anatomia_do_Valor.pdf)
 
-![Mapa mental](materiais/mapa-mental.png)
+![Mapa mental](mapa-mental.png)
 
 **Avaliação crítica do mapa mental:**
 - ✅ Gerado com prompt personalizado (nó central e 6 ramos definidos), e a estrutura pedida foi respeitada integralmente.
